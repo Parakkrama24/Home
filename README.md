@@ -5,10 +5,11 @@
 <body>
     <!-- Your content goes here -->
     <h1>Home</h1>
+    
     <p>This is my Blog page</p>
 
    <h2>Main topics</h2>
-
+ <img src="c:\Users\parak\Downloads\R.jpg" alt="Description of your image"
   <ul>
     <li>Coding practices.
     <a href="https://www.example.com/coding-practices">https://www.example.com/coding-practices</a>
