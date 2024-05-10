@@ -7,10 +7,11 @@
     <h1>Home</h1>
     <p>This is my Blog page</p>
 
-    <h2> Main topics </h2>
+   <h2>Main topics</h2>
 
   <ul>
-    <li>Events: Information about different events such as conferences, workshops, etc.</li>
+    <a href="https://www.example.com/coding-practices">Coding practices</a>
+
     <li>Attendees: Details of individuals attending the events.</li>
     <li>Organizers: Information about the companies or individuals organizing the events.</li>
     <li>Venues: Details about the venues where events are held.</li>
