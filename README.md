@@ -10,12 +10,10 @@
    <h2>Main topics</h2>
 
   <ul>
-    
-
-    <li>Coding practices
+    <li>Events: Information about different events such as conferences, workshops, etc.
     <a href="https://www.example.com/coding-practices">Coding practices</a>
-    </li>
-        
+</li>
+    <li>Attendees: Details of individuals attending the events.</li>
     <li>Organizers: Information about the companies or individuals organizing the events.</li>
     <li>Venues: Details about the venues where events are held.</li>
     <li>Payments: Records of payments made for event tickets or services.</li>
