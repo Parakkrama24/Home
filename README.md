@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
 <body>
     <!-- Your content goes here -->
     <h1>Home</h1>
@@ -9,30 +8,37 @@
 
    <h2>Main topics</h2>
  <img src="https://i.pinimg.com/originals/bf/06/de/bf06de97ffdc562365432fd4958f903d.jpg" alt="Description of your image"
+  />
   <ul>
-    <li>Coding practices.
+  <li>Coding practices.
     <a href="https://www.example.com/coding-practices">https://www.example.com/coding-practices</a>
-    </li>
-  </ul>
+  </li>
+</ul>
 
+<h3>What is Quality Coding?</h3>
 
 <p>
-<h3>What is the quality cording </h3>
+  Quality coding is not rocket science. We use computer programming all the time, and quality coding is related to programming best practices. Let's use a different scenario for easy understanding.
+</p>
 
-Qulaity cording is not a roket sceince . We are using computer programming every time. Qulity cording is realted to the programmin best practices.But in this time I am using another senario for easy understanding.
+<p>
+  Imagine cooking your favorite meal, like parippu. The best flavor of parippu comes from following the best cooking practices. First, wash the parippu. Next, add some spices. Then, heat it. This process has specific procedures that, when followed, result in good flavor. Similarly, quality coding involves following procedures to write efficient and understandable code.
+</p>
 
-We are eating parippu every time right?.Or what ever meal do you like.I pariipu best flavore comming from it cooking best practices.First we should wash pariipu. Next we should add some kulubadu . After that we should haet that . That case have some prosdure. That time we can get good flavore. Other wise we can't eat parippu or what evaer meal.same thing is apply for the quality cording.
-
-We are using some prosidures for write qulaity cords.
-
-<h3>Why we need code Qulity </h3>
+<h3>Why Do We Need Code Quality?</h3>
 
 <ul>
-<li>high-quality code allows programs to run efficiently.</li>
-<li>makes it easier for teammates to understand and 
-contribute.</li>
-<li>makes maintenance and future updates smoother, 
-saving time and resources in the long run.</li>
+  <li>High-quality code allows programs to run efficiently.
+    <p>If we use a lower big(O) value for our code, it runs efficiently.</p>
+  </li>
+  <li>Makes it easier for teammates to understand and contribute.
+    <p>Clean and quality code is easy to read and understand.</p>
+  </li>
+  <li>Makes maintenance and future updates smoother, saving time and resources.
+    <p>Clean and quality code can be easily extended and modified.</p>
+  </li>
+</ul>
+
 
 </p>
 
